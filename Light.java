@@ -9,12 +9,6 @@ package soliriusCodeExercise;
 
 public class Light {
 
-	/**
-	 * constant values for light minimum and maximum numbers
-	 */
-	public static final int LIGHT_MIN = 1;
-	public static final int LIGHT_MAX = 20;
-
 	// instant variables
 
 	/**
